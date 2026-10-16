@@ -10,8 +10,9 @@
   <img width="auto" align="top" src="https://github-readme-stats-ruby-six-23.vercel.app/api/top-langs?username=enmaster&show_icons=true&locale=en&layout=compact&count_private=true&theme=tokyonight&langs_count=6&hide_border=true&bg_color=00000000" alt="enmaster" />
   <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=enmaster&theme=tokyonight" alt="enmaster" /> -->
 </p>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enmaster&column=-1&theme=nord&margin-w=15&margin-h=15&no-bg=true" alt="enmaster" /></a> </p>
+-->
 
 <h3 align="left">My stack</h3>
 <table style="width:100%">
